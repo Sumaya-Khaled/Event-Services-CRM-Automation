@@ -8,6 +8,8 @@ GoHighLevel (GHL) CRM automation for capturing event inquiries, applying rule-ba
 
 ## System Architecture
 
+The diagram below shows the complete implemented journey from inquiry capture through qualification and consultation booking.
+
 ![System Architecture](02-Architecture/System-Architecture-Diagram.png)
 
 ## End-to-End Flow
@@ -56,7 +58,7 @@ The existing CRM opportunity is automatically moved to the **Consultation** stag
 ## Testing
 
 | Scenario | Result |
-|---|---|
+| --- | --- |
 | Qualified Lead | PASS |
 | Outside Service Area | PASS |
 | Event Date Not Eligible | PASS |
@@ -98,6 +100,10 @@ The date check was replaced with an explicit comparison: `Event Date - Current D
 ## Skills Demonstrated
 
 GoHighLevel (GHL) · CRM Architecture · Pipeline & Opportunity Management · Workflow Automation · Forms & Funnels · Custom Fields & Data Modeling · IF/Else Logic · Date/Time Logic · Tags & Smart Lists · Tasks & Internal Notifications · Email Automation · Calendar & Appointment Automation · One-Time Booking Links · End-to-End Testing · Boundary Testing · Debugging · Execution Log Analysis
+
+## Demo
+
+A 72-second portfolio demo was produced for this project. The final video is kept outside this repository because it exceeds GitHub's browser upload limit. A public demo link will be added here after publication.
 
 ## Project Documentation
 
