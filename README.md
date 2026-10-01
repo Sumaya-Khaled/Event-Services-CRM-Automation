@@ -103,7 +103,11 @@ GoHighLevel (GHL) · CRM Architecture · Pipeline & Opportunity Management · Wo
 
 ## Demo
 
-A 72-second portfolio demo was produced for this project. The final video is kept outside this repository because it exceeds GitHub's browser upload limit. A public demo link will be added here after publication.
+A 72-second portfolio demo is published and available to watch on Google Drive. It demonstrates the implemented end-to-end journey from inquiry capture and rule-based qualification through automated follow-up, consultation booking, and CRM pipeline updates.
+
+[▶ Watch the Project Demo on Google Drive](https://drive.google.com/file/d/1gT43RnkAfgkxprhoCUpKMfmYeV_ZEdWP/view?usp=sharing)
+
+For additional demo details, see [06-Demo](06-Demo/README.md).
 
 ## Project Documentation
 
